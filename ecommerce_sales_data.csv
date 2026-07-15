@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Product,Category,Quantity,Price,Sales,City,Payment
+1,2025-05-06,Mobile,Electronics,1,36548,36548,Chennai,Credit Card
+2,2025-10-30,Mobile,Electronics,5,11895,59475,Lucknow,UPI
+3,2025-04-30,Laptop,Electronics,1,29157,29157,Delhi,Credit Card
+4,2025-08-18,Speaker,Accessories,4,29393,117572,Hyderabad,UPI
+5,2025-05-23,Headphones,Accessories,4,45097,180388,Kolkata,Credit Card
+6,2025-07-14,Monitor,Electronics,1,12656,12656,Mumbai,Debit Card
+7,2025-01-23,Monitor,Electronics,5,35171,175855,Jaipur,UPI
+8,2025-11-18,Printer,Office,1,38927,38927,Pune,Credit Card
+9,2025-05-29,Mobile,Electronics,1,30371,30371,Mumbai,Credit Card
+10,2025-08-21,Mobile,Electronics,4,36934,147736,Pune,Credit Card
+11,2025-12-10,Monitor,Electronics,3,27960,83880,Hyderabad,UPI
+12,2025-03-25,Camera,Electronics,2,32587,65174,Jaipur,Cash on Delivery
+13,2025-12-17,Mouse,Accessories,5,29285,146425,Pune,UPI
+14,2025-07-25,Keyboard,Accessories,1,41847,41847,Hyderabad,UPI
+15,2025-04-19,Keyboard,Accessories,5,41745,208725,Jaipur,Cash on Delivery
+16,2025-03-13,Tablet,Electronics,2,35218,70436,Chennai,Debit Card
+17,2025-07-05,Camera,Electronics,4,52850,211400,Chennai,Credit Card
+18,2025-01-25,Speaker,Accessories,4,12415,49660,Mumbai,Credit Card
+19,2025-07-17,Headphones,Accessories,4,8826,35304,Lucknow,Cash on Delivery
+20,2025-12-15,Speaker,Accessories,3,2004,6012,Mumbai,Debit Card
+21,2025-08-11,Monitor,Electronics,1,38969,38969,Kolkata,Cash on Delivery
+22,2025-04-02,Laptop,Electronics,3,66112,198336,Mumbai,Debit Card
+23,2025-03-20,Speaker,Accessories,5,26571,132855,Pune,Credit Card
+24,2025-11-03,Speaker,Accessories,5,574,2870,Pune,Cash on Delivery
+25,2025-06-07,Laptop,Electronics,1,48076,48076,Chennai,UPI
+26,2025-02-13,Keyboard,Accessories,5,10822,54110,Jaipur,UPI
+27,2025-12-04,Speaker,Accessories,2,17328,34656,Jaipur,Credit Card
+28,2025-04-19,Mouse,Accessories,5,55961,279805,Chennai,Debit Card
+29,2025-09-22,Printer,Office,3,57922,173766,Jaipur,UPI
+30,2025-06-23,Keyboard,Accessories,2,8892,17784,Delhi,Credit Card
+31,2025-02-06,Camera,Electronics,2,1442,2884,Delhi,Credit Card
+32,2025-02-06,Mobile,Electronics,1,43809,43809,Chennai,Debit Card
+33,2025-10-20,Tablet,Electronics,2,17842,35684,Jaipur,Credit Card
+34,2025-02-18,Tablet,Electronics,4,25457,101828,Mumbai,Cash on Delivery
+35,2025-08-28,Monitor,Electronics,4,54383,217532,Delhi,UPI
+36,2025-02-25,Laptop,Electronics,4,44973,179892,Chennai,Credit Card
+37,2025-03-13,Keyboard,Accessories,5,59300,296500,Lucknow,Credit Card
+38,2025-02-08,Mouse,Accessories,4,33242,132968,Jaipur,UPI
+39,2025-02-17,Laptop,Electronics,5,2434,12170,Chennai,Credit Card
+40,2025-04-20,Printer,Office,4,63592,254368,Lucknow,UPI
+41,2025-07-19,Headphones,Accessories,4,782,3128,Hyderabad,Cash on Delivery
+42,2025-03-21,Mouse,Accessories,4,64288,257152,Chennai,Debit Card
+43,2025-06-10,Keyboard,Accessories,1,8489,8489,Delhi,UPI
+44,2025-09-29,Camera,Electronics,4,66409,265636,Kolkata,UPI
+45,2025-02-05,Speaker,Accessories,1,24856,24856,Mumbai,Credit Card
+46,2025-10-24,Printer,Office,1,32771,32771,Delhi,UPI
+47,2025-06-11,Printer,Office,5,69022,345110,Hyderabad,Credit Card
+48,2025-07-22,Monitor,Electronics,2,35314,70628,Kolkata,Debit Card
+49,2025-01-05,Tablet,Electronics,3,10008,30024,Jaipur,UPI
+50,2025-09-17,Mobile,Electronics,5,28438,142190,Hyderabad,Credit Card
+51,2025-07-09,Monitor,Electronics,1,32518,32518,Hyderabad,Credit Card
+52,2025-11-10,Tablet,Electronics,5,40151,200755,Delhi,Debit Card
+53,2025-03-01,Mobile,Electronics,2,35164,70328,Mumbai,Credit Card
+54,2025-06-25,Mouse,Accessories,3,28107,84321,Chennai,Debit Card
+55,2025-01-27,Speaker,Accessories,4,33414,133656,Mumbai,Cash on Delivery
+56,2025-06-20,Mouse,Accessories,1,964,964,Kolkata,Debit Card
+57,2025-10-15,Headphones,Accessories,4,56557,226228,Delhi,UPI
+58,2025-07-09,Mobile,Electronics,2,5222,10444,Kolkata,Cash on Delivery
+59,2025-07-06,Headphones,Accessories,1,40904,40904,Delhi,Debit Card
+60,2025-07-01,Keyboard,Accessories,2,13973,27946,Lucknow,Credit Card
+61,2025-07-31,Keyboard,Accessories,2,23706,47412,Delhi,Credit Card
+62,2025-05-17,Monitor,Electronics,4,33027,132108,Kolkata,UPI
+63,2025-04-24,Printer,Office,1,62194,62194,Chennai,Cash on Delivery
+64,2025-04-25,Monitor,Electronics,3,30331,90993,Delhi,Credit Card
+65,2025-02-05,Printer,Office,3,37017,111051,Hyderabad,Debit Card
+66,2025-01-15,Speaker,Accessories,4,43904,175616,Mumbai,Debit Card
+67,2025-01-20,Headphones,Accessories,5,35295,176475,Mumbai,Cash on Delivery
+68,2025-11-07,Monitor,Electronics,3,57699,173097,Mumbai,Cash on Delivery
+69,2025-01-23,Camera,Electronics,2,33886,67772,Lucknow,UPI
+70,2025-07-06,Speaker,Accessories,5,26325,131625,Lucknow,UPI
+71,2025-12-06,Monitor,Electronics,5,41645,208225,Mumbai,Debit Card
+72,2025-06-17,Speaker,Accessories,3,54028,162084,Lucknow,Debit Card
+73,2025-08-04,Speaker,Accessories,2,25644,51288,Lucknow,Credit Card
+74,2025-07-27,Camera,Electronics,5,39946,199730,Delhi,Debit Card
+75,2025-10-24,Mouse,Accessories,2,56846,113692,Pune,Cash on Delivery
+76,2025-09-19,Tablet,Electronics,4,28510,114040,Jaipur,Credit Card
+77,2025-12-06,Mobile,Electronics,3,68061,204183,Pune,UPI
+78,2025-04-12,Keyboard,Accessories,3,29944,89832,Kolkata,UPI
+79,2025-11-09,Laptop,Electronics,2,62777,125554,Mumbai,Cash on Delivery
+80,2025-12-23,Printer,Office,5,25985,129925,Lucknow,Cash on Delivery
+81,2025-12-02,Printer,Office,2,19842,39684,Delhi,UPI
+82,2025-12-23,Printer,Office,2,23553,47106,Jaipur,UPI
+83,2025-08-22,Speaker,Accessories,2,16406,32812,Kolkata,Cash on Delivery
+84,2025-08-15,Speaker,Accessories,5,42088,210440,Lucknow,Cash on Delivery
+85,2025-05-13,Headphones,Accessories,4,59491,237964,Chennai,Debit Card
+86,2025-05-21,Speaker,Accessories,4,31858,127432,Jaipur,UPI
+87,2025-06-21,Mouse,Accessories,2,36114,72228,Pune,UPI
+88,2025-07-16,Headphones,Accessories,2,30811,61622,Kolkata,Credit Card
+89,2025-06-19,Mobile,Electronics,4,53924,215696,Jaipur,Cash on Delivery
+90,2025-07-19,Laptop,Electronics,2,55569,111138,Delhi,Cash on Delivery
+91,2025-06-02,Tablet,Electronics,1,46605,46605,Lucknow,Cash on Delivery
+92,2025-09-07,Speaker,Accessories,5,29406,147030,Chennai,Debit Card
+93,2025-07-19,Printer,Office,4,4304,17216,Pune,Cash on Delivery
+94,2025-11-15,Headphones,Accessories,4,17228,68912,Delhi,Cash on Delivery
+95,2025-02-12,Camera,Electronics,5,4052,20260,Lucknow,Credit Card
+96,2025-05-14,Tablet,Electronics,2,7090,14180,Lucknow,Debit Card
+97,2025-06-22,Keyboard,Accessories,4,43340,173360,Lucknow,Debit Card
+98,2025-08-29,Printer,Office,3,11235,33705,Delhi,UPI
+99,2025-11-30,Monitor,Electronics,2,9493,18986,Delhi,UPI
+100,2025-11-15,Keyboard,Accessories,2,3171,6342,Kolkata,Credit Card
+101,2025-10-16,Headphones,Accessories,4,15493,61972,Chennai,Cash on Delivery
+102,2025-11-07,Mouse,Accessories,3,22492,67476,Mumbai,Credit Card
+103,2025-06-09,Mouse,Accessories,1,3865,3865,Lucknow,Cash on Delivery
+104,2025-02-22,Keyboard,Accessories,1,32330,32330,Hyderabad,UPI
+105,2025-09-30,Camera,Electronics,1,46008,46008,Lucknow,Debit Card
+106,2025-01-07,Mobile,Electronics,5,45225,226125,Lucknow,Cash on Delivery
+107,2025-11-22,Mobile,Electronics,4,47972,191888,Jaipur,Credit Card
+108,2025-11-30,Printer,Office,2,68886,137772,Hyderabad,Cash on Delivery
+109,2025-06-15,Tablet,Electronics,4,35679,142716,Chennai,UPI
+110,2025-08-26,Mouse,Accessories,4,32463,129852,Lucknow,Debit Card
+111,2025-04-04,Laptop,Electronics,4,43100,172400,Jaipur,Credit Card
+112,2025-05-24,Monitor,Electronics,3,45108,135324,Hyderabad,UPI
+113,2025-05-04,Speaker,Accessories,2,11721,23442,Lucknow,Cash on Delivery
+114,2025-11-27,Speaker,Accessories,2,62902,125804,Jaipur,Cash on Delivery
+115,2025-04-24,Laptop,Electronics,1,39066,39066,Lucknow,Credit Card
+116,2025-08-31,Mouse,Accessories,5,48868,244340,Pune,Cash on Delivery
+117,2025-12-26,Speaker,Accessories,3,46612,139836,Jaipur,Debit Card
+118,2025-03-03,Mouse,Accessories,3,30717,92151,Chennai,Debit Card
+119,2025-04-09,Mobile,Electronics,5,24767,123835,Chennai,Cash on Delivery
+120,2025-11-02,Mouse,Accessories,5,69265,346325,Hyderabad,UPI
+121,2025-07-04,Keyboard,Accessories,3,30316,90948,Kolkata,Debit Card
+122,2025-05-21,Laptop,Electronics,5,17091,85455,Delhi,UPI
+123,2025-11-23,Speaker,Accessories,3,17051,51153,Jaipur,UPI
+124,2025-08-29,Laptop,Electronics,5,37768,188840,Jaipur,Cash on Delivery
+125,2025-05-10,Monitor,Electronics,2,7234,14468,Jaipur,UPI
+126,2025-02-07,Mobile,Electronics,4,64954,259816,Delhi,Credit Card
+127,2025-02-13,Headphones,Accessories,5,40324,201620,Chennai,UPI
+128,2025-09-25,Speaker,Accessories,4,30081,120324,Lucknow,Cash on Delivery
+129,2025-06-06,Tablet,Electronics,3,56707,170121,Delhi,UPI
+130,2025-12-05,Keyboard,Accessories,2,35187,70374,Mumbai,Credit Card
+131,2025-03-22,Keyboard,Accessories,2,10338,20676,Delhi,Cash on Delivery
+132,2025-05-30,Tablet,Electronics,5,62092,310460,Delhi,Credit Card
+133,2025-02-06,Mouse,Accessories,3,60010,180030,Chennai,Debit Card
+134,2025-02-28,Camera,Electronics,2,56223,112446,Chennai,Credit Card
+135,2025-01-31,Mouse,Accessories,2,9859,19718,Kolkata,Debit Card
+136,2025-08-13,Camera,Electronics,5,38328,191640,Mumbai,Cash on Delivery
+137,2025-09-14,Mouse,Accessories,4,36183,144732,Jaipur,Cash on Delivery
+138,2025-08-10,Mobile,Electronics,5,5724,28620,Pune,Debit Card
+139,2025-12-12,Laptop,Electronics,1,30505,30505,Delhi,Debit Card
+140,2025-08-29,Camera,Electronics,1,23462,23462,Jaipur,Debit Card
+141,2025-11-22,Headphones,Accessories,5,57632,288160,Jaipur,UPI
+142,2025-06-20,Tablet,Electronics,3,54023,162069,Pune,UPI
+143,2025-12-22,Headphones,Accessories,3,54455,163365,Jaipur,Debit Card
+144,2025-08-21,Printer,Office,5,5309,26545,Mumbai,Debit Card
+145,2025-07-26,Mouse,Accessories,3,15694,47082,Delhi,Cash on Delivery
+146,2025-09-23,Printer,Office,1,25086,25086,Pune,Cash on Delivery
+147,2025-05-17,Tablet,Electronics,1,27180,27180,Kolkata,Debit Card
+148,2025-01-15,Tablet,Electronics,4,16415,65660,Chennai,Credit Card
+149,2025-10-10,Mouse,Accessories,5,2292,11460,Lucknow,UPI
+150,2025-03-02,Keyboard,Accessories,1,60982,60982,Kolkata,Cash on Delivery
+151,2025-08-01,Mouse,Accessories,5,36338,181690,Jaipur,Cash on Delivery
+152,2025-07-16,Keyboard,Accessories,4,19458,77832,Chennai,Credit Card
+153,2025-06-24,Mobile,Electronics,3,54887,164661,Hyderabad,UPI
+154,2025-03-18,Mouse,Accessories,3,64678,194034,Jaipur,Cash on Delivery
+155,2025-08-22,Monitor,Electronics,3,49941,149823,Pune,Credit Card
+156,2025-04-30,Keyboard,Accessories,5,50696,253480,Lucknow,UPI
+157,2025-07-17,Monitor,Electronics,4,50468,201872,Kolkata,Cash on Delivery
+158,2025-10-30,Laptop,Electronics,2,66336,132672,Pune,UPI
+159,2025-08-22,Tablet,Electronics,1,69437,69437,Delhi,Credit Card
+160,2025-08-29,Printer,Office,2,10307,20614,Hyderabad,Debit Card
+161,2025-06-18,Camera,Electronics,4,11027,44108,Lucknow,Debit Card
+162,2025-11-13,Tablet,Electronics,5,5205,26025,Mumbai,Credit Card
+163,2025-08-11,Mouse,Accessories,2,12346,24692,Mumbai,UPI
+164,2025-01-15,Tablet,Electronics,2,39751,79502,Delhi,Debit Card
+165,2025-07-11,Laptop,Electronics,3,47484,142452,Lucknow,Credit Card
+166,2025-10-17,Keyboard,Accessories,5,54508,272540,Kolkata,Credit Card
+167,2025-11-14,Headphones,Accessories,1,50640,50640,Chennai,Cash on Delivery
+168,2025-08-25,Camera,Electronics,2,30933,61866,Hyderabad,Cash on Delivery
+169,2025-05-28,Mouse,Accessories,1,61481,61481,Kolkata,UPI
+170,2025-11-24,Tablet,Electronics,3,39710,119130,Lucknow,Debit Card
+171,2025-07-16,Tablet,Electronics,3,26611,79833,Jaipur,UPI
+172,2025-10-22,Keyboard,Accessories,4,47549,190196,Hyderabad,Debit Card
+173,2025-01-05,Laptop,Electronics,4,36476,145904,Delhi,Cash on Delivery
+174,2025-04-23,Mouse,Accessories,2,46679,93358,Chennai,Debit Card
+175,2025-06-08,Headphones,Accessories,1,5667,5667,Jaipur,UPI
+176,2025-02-16,Camera,Electronics,3,17724,53172,Hyderabad,Debit Card
+177,2025-03-09,Printer,Office,2,26818,53636,Pune,Debit Card
+178,2025-06-01,Headphones,Accessories,3,63656,190968,Pune,UPI
+179,2025-04-26,Tablet,Electronics,1,18949,18949,Lucknow,Debit Card
+180,2025-05-16,Mobile,Electronics,4,2324,9296,Mumbai,Cash on Delivery
+181,2025-11-23,Monitor,Electronics,3,50441,151323,Pune,UPI
+182,2025-11-14,Keyboard,Accessories,4,3780,15120,Pune,Credit Card
+183,2025-11-29,Mobile,Electronics,4,40108,160432,Lucknow,UPI
+184,2025-06-05,Headphones,Accessories,1,5377,5377,Jaipur,UPI
+185,2025-07-18,Mobile,Electronics,2,18281,36562,Jaipur,Debit Card
+186,2025-08-01,Speaker,Accessories,4,20753,83012,Mumbai,Cash on Delivery
+187,2025-01-17,Camera,Electronics,4,37166,148664,Pune,Credit Card
+188,2025-07-05,Tablet,Electronics,4,31447,125788,Mumbai,Debit Card
+189,2025-07-23,Speaker,Accessories,3,8436,25308,Hyderabad,Credit Card
+190,2025-12-06,Mobile,Electronics,4,12515,50060,Chennai,UPI
+191,2025-03-06,Laptop,Electronics,3,32425,97275,Chennai,UPI
+192,2025-04-30,Speaker,Accessories,2,28805,57610,Pune,Credit Card
+193,2025-03-16,Camera,Electronics,1,36842,36842,Kolkata,Debit Card
+194,2025-03-09,Headphones,Accessories,1,3879,3879,Delhi,Debit Card
+195,2025-01-09,Keyboard,Accessories,5,42937,214685,Kolkata,Debit Card
+196,2025-09-27,Laptop,Electronics,2,55676,111352,Mumbai,UPI
+197,2025-09-20,Tablet,Electronics,4,47953,191812,Mumbai,Cash on Delivery
+198,2025-12-04,Speaker,Accessories,2,6183,12366,Hyderabad,Cash on Delivery
+199,2025-07-25,Laptop,Electronics,1,63281,63281,Lucknow,UPI
+200,2025-02-11,Tablet,Electronics,4,10132,40528,Pune,Credit Card
+201,2025-11-16,Mobile,Electronics,2,36546,73092,Pune,Cash on Delivery
+202,2025-08-21,Camera,Electronics,5,39152,195760,Lucknow,UPI
+203,2025-08-09,Mobile,Electronics,5,28683,143415,Jaipur,Credit Card
+204,2025-07-24,Printer,Office,3,59941,179823,Lucknow,UPI
+205,2025-12-07,Monitor,Electronics,4,41463,165852,Hyderabad,Debit Card
+206,2025-02-16,Headphones,Accessories,4,9299,37196,Mumbai,UPI
+207,2025-03-08,Printer,Office,1,49343,49343,Delhi,Debit Card
+208,2025-12-07,Mobile,Electronics,4,46846,187384,Lucknow,UPI
+209,2025-06-30,Mouse,Accessories,5,41453,207265,Mumbai,Credit Card
+210,2025-02-25,Headphones,Accessories,4,29892,119568,Pune,Debit Card
+211,2025-08-08,Mobile,Electronics,3,30143,90429,Delhi,Debit Card
+212,2025-12-26,Laptop,Electronics,2,36318,72636,Hyderabad,Debit Card
+213,2025-03-15,Monitor,Electronics,1,24277,24277,Lucknow,UPI
+214,2025-09-29,Headphones,Accessories,1,12526,12526,Chennai,Cash on Delivery
+215,2025-03-22,Printer,Office,4,45181,180724,Pune,Debit Card
+216,2025-01-27,Monitor,Electronics,5,11635,58175,Kolkata,Credit Card
+217,2025-05-20,Camera,Electronics,1,11193,11193,Jaipur,Cash on Delivery
+218,2025-08-01,Tablet,Electronics,5,58439,292195,Hyderabad,Credit Card
+219,2025-08-09,Speaker,Accessories,1,45742,45742,Mumbai,Debit Card
+220,2025-12-08,Camera,Electronics,4,69566,278264,Hyderabad,UPI
+221,2025-01-04,Keyboard,Accessories,4,7680,30720,Chennai,Debit Card
+222,2025-05-29,Keyboard,Accessories,2,33991,67982,Pune,UPI
+223,2025-03-31,Laptop,Electronics,4,56946,227784,Kolkata,Cash on Delivery
+224,2025-10-14,Speaker,Accessories,2,66070,132140,Pune,UPI
+225,2025-01-10,Printer,Office,1,57676,57676,Jaipur,UPI
+226,2025-10-21,Monitor,Electronics,5,56767,283835,Lucknow,Cash on Delivery
+227,2025-01-11,Mouse,Accessories,1,53588,53588,Pune,Credit Card
+228,2025-02-15,Camera,Electronics,4,47928,191712,Lucknow,UPI
+229,2025-09-26,Keyboard,Accessories,4,52987,211948,Mumbai,Cash on Delivery
+230,2025-06-20,Mouse,Accessories,3,29541,88623,Kolkata,UPI
+231,2025-04-10,Speaker,Accessories,1,67340,67340,Pune,Debit Card
+232,2025-03-16,Headphones,Accessories,2,13974,27948,Hyderabad,Credit Card
+233,2025-12-02,Headphones,Accessories,5,20536,102680,Mumbai,Credit Card
+234,2025-12-15,Tablet,Electronics,4,59338,237352,Pune,Debit Card
+235,2025-08-29,Headphones,Accessories,4,9450,37800,Jaipur,Debit Card
+236,2025-06-30,Mouse,Accessories,5,7862,39310,Mumbai,Debit Card
+237,2025-01-30,Tablet,Electronics,4,5429,21716,Pune,Debit Card
+238,2025-07-16,Mobile,Electronics,1,66962,66962,Jaipur,UPI
+239,2025-06-14,Tablet,Electronics,5,25172,125860,Jaipur,Credit Card
+240,2025-06-25,Laptop,Electronics,4,14066,56264,Mumbai,Credit Card
+241,2025-08-13,Laptop,Electronics,2,57877,115754,Kolkata,Debit Card
+242,2025-07-29,Monitor,Electronics,3,51279,153837,Pune,UPI
+243,2025-02-18,Monitor,Electronics,1,43713,43713,Lucknow,Debit Card
+244,2025-06-20,Mouse,Accessories,5,20209,101045,Mumbai,Credit Card
+245,2025-03-08,Monitor,Electronics,3,51874,155622,Mumbai,Debit Card
+246,2025-03-07,Speaker,Accessories,4,43554,174216,Mumbai,Cash on Delivery
+247,2025-07-05,Speaker,Accessories,3,2889,8667,Hyderabad,Credit Card
+248,2025-04-09,Keyboard,Accessories,3,64236,192708,Chennai,Credit Card
+249,2025-02-21,Headphones,Accessories,1,39270,39270,Delhi,Debit Card
+250,2025-03-20,Camera,Electronics,2,49877,99754,Kolkata,Credit Card
+251,2025-01-23,Camera,Electronics,2,57866,115732,Lucknow,Debit Card
+252,2025-08-18,Keyboard,Accessories,4,37846,151384,Chennai,Credit Card
+253,2025-07-08,Mouse,Accessories,4,25930,103720,Jaipur,Cash on Delivery
+254,2025-09-28,Mouse,Accessories,4,66416,265664,Lucknow,Credit Card
+255,2025-05-09,Keyboard,Accessories,5,18640,93200,Delhi,Cash on Delivery
+256,2025-12-31,Monitor,Electronics,5,13946,69730,Mumbai,Debit Card
+257,2025-08-19,Mobile,Electronics,2,36255,72510,Kolkata,Cash on Delivery
+258,2025-06-28,Mobile,Electronics,2,59630,119260,Delhi,Cash on Delivery
+259,2025-07-11,Laptop,Electronics,4,66299,265196,Chennai,Cash on Delivery
+260,2025-01-15,Mobile,Electronics,3,29930,89790,Pune,UPI
+261,2025-01-20,Monitor,Electronics,2,18535,37070,Hyderabad,Cash on Delivery
+262,2025-11-12,Headphones,Accessories,4,59299,237196,Delhi,UPI
+263,2025-03-18,Laptop,Electronics,3,28766,86298,Lucknow,UPI
+264,2025-03-04,Mouse,Accessories,2,39972,79944,Delhi,Credit Card
+265,2025-02-02,Printer,Office,5,60414,302070,Mumbai,Cash on Delivery
+266,2025-11-20,Camera,Electronics,5,2654,13270,Chennai,Credit Card
+267,2025-11-11,Mouse,Accessories,4,705,2820,Pune,Credit Card
+268,2025-12-07,Camera,Electronics,4,25051,100204,Mumbai,Debit Card
+269,2025-09-17,Mobile,Electronics,5,66996,334980,Delhi,Cash on Delivery
+270,2025-07-11,Tablet,Electronics,1,51209,51209,Hyderabad,UPI
+271,2025-05-04,Monitor,Electronics,1,45693,45693,Mumbai,Debit Card
+272,2025-10-07,Headphones,Accessories,1,46676,46676,Pune,Credit Card
+273,2025-03-11,Tablet,Electronics,4,24391,97564,Mumbai,Cash on Delivery
+274,2025-01-23,Laptop,Electronics,3,26922,80766,Chennai,UPI
+275,2025-07-23,Monitor,Electronics,3,68052,204156,Jaipur,Debit Card
+276,2025-07-02,Laptop,Electronics,2,38001,76002,Delhi,Debit Card
+277,2025-08-12,Mouse,Accessories,1,48737,48737,Lucknow,Cash on Delivery
+278,2025-09-12,Printer,Office,3,24986,74958,Jaipur,Debit Card
+279,2025-08-06,Speaker,Accessories,3,11328,33984,Mumbai,Cash on Delivery
+280,2025-06-14,Camera,Electronics,2,39004,78008,Mumbai,UPI
+281,2025-08-17,Monitor,Electronics,3,40673,122019,Lucknow,Credit Card
+282,2025-01-22,Tablet,Electronics,3,59106,177318,Pune,Cash on Delivery
+283,2025-12-10,Mouse,Accessories,1,10335,10335,Lucknow,Debit Card
+284,2025-03-15,Speaker,Accessories,2,4581,9162,Jaipur,UPI
+285,2025-11-27,Headphones,Accessories,1,31432,31432,Pune,Debit Card
+286,2025-11-06,Printer,Office,5,4744,23720,Kolkata,Cash on Delivery
+287,2025-02-09,Monitor,Electronics,3,58688,176064,Kolkata,Debit Card
+288,2025-05-08,Printer,Office,3,37028,111084,Mumbai,UPI
+289,2025-07-18,Headphones,Accessories,4,68361,273444,Mumbai,Debit Card
+290,2025-11-10,Mouse,Accessories,4,28624,114496,Hyderabad,Cash on Delivery
+291,2025-02-07,Keyboard,Accessories,1,18290,18290,Jaipur,Credit Card
+292,2025-12-08,Tablet,Electronics,1,42389,42389,Pune,UPI
+293,2025-06-03,Speaker,Accessories,5,38558,192790,Kolkata,Credit Card
+294,2025-03-04,Monitor,Electronics,5,29891,149455,Chennai,Credit Card
+295,2025-07-04,Keyboard,Accessories,4,3945,15780,Pune,Cash on Delivery
+296,2025-02-03,Speaker,Accessories,2,11800,23600,Hyderabad,Cash on Delivery
+297,2025-07-29,Tablet,Electronics,5,54343,271715,Mumbai,Credit Card
+298,2025-08-27,Monitor,Electronics,1,59479,59479,Pune,Credit Card
+299,2025-03-08,Speaker,Accessories,5,24350,121750,Lucknow,UPI
+300,2025-06-05,Mobile,Electronics,5,20556,102780,Kolkata,Credit Card
+301,2025-09-23,Monitor,Electronics,2,45853,91706,Hyderabad,UPI
+302,2025-03-06,Mouse,Accessories,2,36472,72944,Hyderabad,UPI
+303,2025-03-29,Speaker,Accessories,2,20710,41420,Pune,UPI
+304,2025-11-25,Laptop,Electronics,1,6458,6458,Hyderabad,Credit Card
+305,2025-09-12,Camera,Electronics,4,4469,17876,Hyderabad,Debit Card
+306,2025-06-02,Tablet,Electronics,2,53727,107454,Jaipur,UPI
+307,2025-08-01,Laptop,Electronics,2,58119,116238,Jaipur,Cash on Delivery
+308,2025-06-10,Keyboard,Accessories,3,19330,57990,Pune,Debit Card
+309,2025-09-21,Printer,Office,2,49067,98134,Mumbai,Debit Card
+310,2025-05-17,Keyboard,Accessories,4,16559,66236,Jaipur,Credit Card
+311,2025-05-29,Headphones,Accessories,1,7132,7132,Lucknow,Cash on Delivery
+312,2025-10-23,Keyboard,Accessories,2,43417,86834,Pune,Credit Card
+313,2025-08-28,Headphones,Accessories,4,67966,271864,Jaipur,Debit Card
+314,2025-07-21,Tablet,Electronics,1,12302,12302,Jaipur,Credit Card
+315,2025-01-25,Keyboard,Accessories,5,46754,233770,Delhi,Debit Card
+316,2025-05-27,Tablet,Electronics,5,62180,310900,Delhi,UPI
+317,2025-07-07,Printer,Office,2,35164,70328,Lucknow,Debit Card
+318,2025-10-19,Laptop,Electronics,4,7205,28820,Chennai,Debit Card
+319,2025-07-17,Speaker,Accessories,3,10137,30411,Jaipur,Debit Card
+320,2025-03-07,Camera,Electronics,5,16072,80360,Mumbai,Cash on Delivery
+321,2025-03-15,Monitor,Electronics,3,48420,145260,Chennai,Cash on Delivery
+322,2025-01-20,Speaker,Accessories,1,6438,6438,Kolkata,Debit Card
+323,2025-03-18,Tablet,Electronics,5,60398,301990,Kolkata,Debit Card
+324,2025-07-21,Camera,Electronics,3,21799,65397,Hyderabad,Debit Card
+325,2025-12-29,Speaker,Accessories,5,64705,323525,Hyderabad,Cash on Delivery
+326,2025-12-11,Laptop,Electronics,3,43916,131748,Mumbai,Cash on Delivery
+327,2025-11-02,Camera,Electronics,3,3992,11976,Jaipur,Debit Card
+328,2025-01-27,Camera,Electronics,5,30324,151620,Jaipur,Credit Card
+329,2025-03-17,Speaker,Accessories,5,50332,251660,Chennai,UPI
+330,2025-01-10,Camera,Electronics,1,25506,25506,Jaipur,Debit Card
+331,2025-12-20,Printer,Office,2,54627,109254,Chennai,Cash on Delivery
+332,2025-02-01,Speaker,Accessories,5,62314,311570,Kolkata,Credit Card
+333,2025-09-27,Speaker,Accessories,3,63201,189603,Lucknow,Debit Card
+334,2025-10-07,Headphones,Accessories,4,45369,181476,Pune,Debit Card
+335,2025-05-07,Camera,Electronics,4,25700,102800,Hyderabad,Debit Card
+336,2025-12-27,Keyboard,Accessories,3,38380,115140,Chennai,Cash on Delivery
+337,2025-10-14,Monitor,Electronics,4,46218,184872,Hyderabad,Debit Card
+338,2025-07-22,Mobile,Electronics,5,50267,251335,Pune,Credit Card
+339,2025-02-10,Mouse,Accessories,1,38200,38200,Pune,Cash on Delivery
+340,2025-04-14,Mouse,Accessories,4,28547,114188,Hyderabad,Debit Card
+341,2025-05-05,Headphones,Accessories,1,31863,31863,Delhi,Credit Card
+342,2025-07-31,Keyboard,Accessories,1,13633,13633,Pune,Cash on Delivery
+343,2025-10-09,Mobile,Electronics,2,1179,2358,Kolkata,Cash on Delivery
+344,2025-05-28,Tablet,Electronics,4,26643,106572,Pune,Debit Card
+345,2025-10-01,Laptop,Electronics,1,30937,30937,Delhi,Credit Card
+346,2025-07-23,Printer,Office,2,5263,10526,Jaipur,Credit Card
+347,2025-06-02,Mouse,Accessories,1,1714,1714,Mumbai,Debit Card
+348,2025-09-10,Mouse,Accessories,4,69223,276892,Kolkata,Cash on Delivery
+349,2025-06-19,Mouse,Accessories,2,15264,30528,Kolkata,Cash on Delivery
+350,2025-06-22,Mouse,Accessories,2,2346,4692,Hyderabad,Credit Card
+351,2025-08-07,Headphones,Accessories,5,53648,268240,Pune,UPI
+352,2025-03-13,Printer,Office,1,24719,24719,Jaipur,Debit Card
+353,2025-07-16,Keyboard,Accessories,1,34681,34681,Chennai,Cash on Delivery
+354,2025-10-26,Mouse,Accessories,3,40076,120228,Delhi,Debit Card
+355,2025-12-08,Monitor,Electronics,2,8642,17284,Mumbai,Cash on Delivery
+356,2025-12-18,Mouse,Accessories,2,53638,107276,Hyderabad,UPI
+357,2025-04-23,Mouse,Accessories,3,29447,88341,Kolkata,Cash on Delivery
+358,2025-08-01,Headphones,Accessories,4,49471,197884,Jaipur,Credit Card
+359,2025-09-27,Keyboard,Accessories,5,11230,56150,Jaipur,Debit Card
+360,2025-02-01,Mobile,Electronics,5,15207,76035,Chennai,Credit Card
+361,2025-08-15,Headphones,Accessories,3,68702,206106,Mumbai,Credit Card
+362,2025-09-19,Camera,Electronics,4,12419,49676,Jaipur,UPI
+363,2025-08-01,Tablet,Electronics,2,67772,135544,Jaipur,UPI
+364,2025-01-12,Speaker,Accessories,4,40892,163568,Lucknow,Debit Card
+365,2025-01-24,Laptop,Electronics,2,10072,20144,Lucknow,Debit Card
+366,2025-02-05,Mobile,Electronics,5,8397,41985,Jaipur,UPI
+367,2025-03-11,Mouse,Accessories,4,24090,96360,Lucknow,Debit Card
+368,2025-07-12,Printer,Office,4,49979,199916,Mumbai,Credit Card
+369,2025-10-03,Monitor,Electronics,1,23892,23892,Lucknow,Credit Card
+370,2025-06-02,Keyboard,Accessories,1,3479,3479,Jaipur,Cash on Delivery
+371,2025-05-07,Speaker,Accessories,4,30602,122408,Jaipur,Debit Card
+372,2025-02-27,Headphones,Accessories,3,25204,75612,Delhi,Cash on Delivery
+373,2025-04-16,Camera,Electronics,1,32044,32044,Mumbai,UPI
+374,2025-11-03,Camera,Electronics,1,59015,59015,Delhi,Credit Card
+375,2025-04-30,Laptop,Electronics,4,58035,232140,Chennai,UPI
+376,2025-04-30,Headphones,Accessories,5,38414,192070,Pune,Debit Card
+377,2025-12-05,Keyboard,Accessories,3,19277,57831,Chennai,Cash on Delivery
+378,2025-10-13,Mouse,Accessories,3,8489,25467,Kolkata,Cash on Delivery
+379,2025-06-26,Speaker,Accessories,4,6645,26580,Lucknow,Debit Card
+380,2025-06-03,Printer,Office,4,20058,80232,Lucknow,Credit Card
+381,2025-04-26,Speaker,Accessories,4,32084,128336,Hyderabad,Credit Card
+382,2025-08-02,Tablet,Electronics,1,54590,54590,Kolkata,Cash on Delivery
+383,2025-06-19,Keyboard,Accessories,3,27151,81453,Mumbai,Cash on Delivery
+384,2025-01-27,Monitor,Electronics,1,25466,25466,Hyderabad,Cash on Delivery
+385,2025-02-07,Camera,Electronics,5,5683,28415,Chennai,Credit Card
+386,2025-06-05,Tablet,Electronics,2,44142,88284,Delhi,Credit Card
+387,2025-05-05,Keyboard,Accessories,1,63273,63273,Chennai,Cash on Delivery
+388,2025-05-25,Keyboard,Accessories,5,42654,213270,Lucknow,Cash on Delivery
+389,2025-05-14,Speaker,Accessories,3,40925,122775,Pune,Cash on Delivery
+390,2025-06-13,Tablet,Electronics,1,62037,62037,Chennai,Debit Card
+391,2025-10-16,Monitor,Electronics,4,6492,25968,Chennai,Credit Card
+392,2025-06-01,Laptop,Electronics,3,55232,165696,Kolkata,Credit Card
+393,2025-10-19,Monitor,Electronics,2,50286,100572,Chennai,Cash on Delivery
+394,2025-09-08,Speaker,Accessories,3,34228,102684,Jaipur,Cash on Delivery
+395,2025-03-13,Headphones,Accessories,3,22685,68055,Jaipur,Credit Card
+396,2025-01-18,Speaker,Accessories,1,69174,69174,Mumbai,UPI
+397,2025-11-19,Laptop,Electronics,4,18521,74084,Chennai,UPI
+398,2025-09-16,Headphones,Accessories,1,29168,29168,Jaipur,Debit Card
+399,2025-12-04,Laptop,Electronics,5,63834,319170,Jaipur,UPI
+400,2025-01-07,Laptop,Electronics,5,54414,272070,Delhi,Debit Card
+401,2025-09-15,Speaker,Accessories,3,2746,8238,Lucknow,Credit Card
+402,2025-03-18,Mobile,Electronics,1,69232,69232,Chennai,Credit Card
+403,2025-07-01,Camera,Electronics,5,33584,167920,Hyderabad,Cash on Delivery
+404,2025-08-24,Mobile,Electronics,3,53718,161154,Chennai,Credit Card
+405,2025-02-17,Mouse,Accessories,1,4652,4652,Lucknow,Cash on Delivery
+406,2025-01-29,Printer,Office,5,62890,314450,Delhi,Credit Card
+407,2025-11-27,Mobile,Electronics,4,57373,229492,Pune,UPI
+408,2025-04-19,Speaker,Accessories,1,30615,30615,Jaipur,Debit Card
+409,2025-10-06,Laptop,Electronics,1,37249,37249,Delhi,Credit Card
+410,2025-10-28,Monitor,Electronics,1,27652,27652,Kolkata,Cash on Delivery
+411,2025-10-16,Mobile,Electronics,3,21792,65376,Chennai,Cash on Delivery
+412,2025-03-13,Speaker,Accessories,3,50811,152433,Mumbai,Debit Card
+413,2025-04-29,Laptop,Electronics,1,57790,57790,Mumbai,Debit Card
+414,2025-06-17,Camera,Electronics,5,52496,262480,Delhi,Debit Card
+415,2025-07-02,Tablet,Electronics,4,30402,121608,Lucknow,Cash on Delivery
+416,2025-02-13,Headphones,Accessories,5,50316,251580,Hyderabad,Credit Card
+417,2025-03-20,Mobile,Electronics,1,35623,35623,Lucknow,Credit Card
+418,2025-02-24,Printer,Office,3,47777,143331,Mumbai,UPI
+419,2025-05-19,Mouse,Accessories,4,47675,190700,Mumbai,Credit Card
+420,2025-08-18,Mobile,Electronics,2,56989,113978,Lucknow,UPI
+421,2025-10-11,Laptop,Electronics,1,46888,46888,Mumbai,Debit Card
+422,2025-07-31,Printer,Office,1,38753,38753,Lucknow,UPI
+423,2025-03-28,Speaker,Accessories,2,68802,137604,Lucknow,Credit Card
+424,2025-05-18,Headphones,Accessories,3,39969,119907,Jaipur,Credit Card
+425,2025-05-22,Mobile,Electronics,2,57473,114946,Lucknow,Debit Card
+426,2025-05-09,Tablet,Electronics,1,47833,47833,Chennai,Cash on Delivery
+427,2025-08-23,Camera,Electronics,5,26130,130650,Mumbai,Credit Card
+428,2025-06-20,Mouse,Accessories,1,52364,52364,Lucknow,Debit Card
+429,2025-11-30,Tablet,Electronics,3,56941,170823,Kolkata,Debit Card
+430,2025-09-03,Monitor,Electronics,5,26826,134130,Pune,Credit Card
+431,2025-12-22,Printer,Office,3,38700,116100,Jaipur,Credit Card
+432,2025-07-21,Monitor,Electronics,4,37239,148956,Pune,UPI
+433,2025-12-16,Camera,Electronics,2,24083,48166,Delhi,Cash on Delivery
+434,2025-12-21,Keyboard,Accessories,4,38685,154740,Mumbai,Cash on Delivery
+435,2025-05-04,Tablet,Electronics,2,40192,80384,Hyderabad,Credit Card
+436,2025-08-18,Printer,Office,4,10194,40776,Jaipur,Cash on Delivery
+437,2025-10-06,Speaker,Accessories,5,55327,276635,Delhi,Debit Card
+438,2025-02-25,Speaker,Accessories,5,11638,58190,Chennai,Debit Card
+439,2025-10-16,Headphones,Accessories,5,6306,31530,Lucknow,Debit Card
+440,2025-02-20,Printer,Office,1,1882,1882,Hyderabad,Credit Card
+441,2025-08-17,Speaker,Accessories,5,29471,147355,Pune,Cash on Delivery
+442,2025-03-19,Tablet,Electronics,5,66097,330485,Pune,UPI
+443,2025-08-01,Tablet,Electronics,1,39222,39222,Mumbai,UPI
+444,2025-06-25,Headphones,Accessories,3,41380,124140,Jaipur,Credit Card
+445,2025-09-01,Speaker,Accessories,4,46152,184608,Mumbai,Cash on Delivery
+446,2025-06-03,Tablet,Electronics,3,9304,27912,Delhi,UPI
+447,2025-12-13,Laptop,Electronics,3,14834,44502,Kolkata,Credit Card
+448,2025-06-19,Speaker,Accessories,2,21489,42978,Lucknow,Cash on Delivery
+449,2025-04-06,Keyboard,Accessories,4,24676,98704,Lucknow,Cash on Delivery
+450,2025-08-19,Laptop,Electronics,5,26363,131815,Lucknow,Cash on Delivery
+451,2025-05-23,Laptop,Electronics,2,27472,54944,Mumbai,UPI
+452,2025-06-16,Speaker,Accessories,2,48445,96890,Chennai,Cash on Delivery
+453,2025-09-28,Mobile,Electronics,3,64657,193971,Pune,Cash on Delivery
+454,2025-06-28,Camera,Electronics,4,15472,61888,Pune,Cash on Delivery
+455,2025-11-11,Camera,Electronics,2,39486,78972,Mumbai,Credit Card
+456,2025-06-06,Monitor,Electronics,1,31770,31770,Mumbai,Credit Card
+457,2025-07-18,Monitor,Electronics,2,67454,134908,Lucknow,Credit Card
+458,2025-04-06,Camera,Electronics,4,55948,223792,Jaipur,Credit Card
+459,2025-05-28,Speaker,Accessories,2,64678,129356,Kolkata,Credit Card
+460,2025-07-03,Monitor,Electronics,4,7526,30104,Delhi,Cash on Delivery
+461,2025-10-15,Headphones,Accessories,2,50824,101648,Jaipur,Cash on Delivery
+462,2025-09-08,Tablet,Electronics,4,58676,234704,Kolkata,UPI
+463,2025-05-30,Camera,Electronics,1,29405,29405,Delhi,Debit Card
+464,2025-03-28,Keyboard,Accessories,5,38336,191680,Jaipur,Cash on Delivery
+465,2025-10-21,Speaker,Accessories,5,15338,76690,Mumbai,Debit Card
+466,2025-08-14,Speaker,Accessories,3,5953,17859,Chennai,Cash on Delivery
+467,2025-01-17,Mobile,Electronics,2,39521,79042,Jaipur,Debit Card
+468,2025-03-02,Monitor,Electronics,1,58049,58049,Chennai,Credit Card
+469,2025-03-26,Camera,Electronics,3,56620,169860,Kolkata,Credit Card
+470,2025-09-30,Keyboard,Accessories,1,46482,46482,Hyderabad,Credit Card
+471,2025-10-21,Monitor,Electronics,3,38423,115269,Hyderabad,UPI
+472,2025-05-22,Headphones,Accessories,4,8270,33080,Kolkata,Credit Card
+473,2025-05-07,Keyboard,Accessories,2,42717,85434,Lucknow,Cash on Delivery
+474,2025-11-18,Headphones,Accessories,5,35721,178605,Lucknow,Cash on Delivery
+475,2025-07-26,Tablet,Electronics,1,12702,12702,Hyderabad,Debit Card
+476,2025-10-25,Tablet,Electronics,4,43398,173592,Delhi,UPI
+477,2025-10-01,Tablet,Electronics,3,8800,26400,Lucknow,Credit Card
+478,2025-05-18,Printer,Office,2,65343,130686,Pune,Debit Card
+479,2025-10-17,Monitor,Electronics,5,17617,88085,Jaipur,Debit Card
+480,2025-11-17,Laptop,Electronics,1,13551,13551,Jaipur,UPI
+481,2025-08-22,Mobile,Electronics,2,58340,116680,Delhi,Cash on Delivery
+482,2025-03-23,Keyboard,Accessories,2,40066,80132,Hyderabad,UPI
+483,2025-07-10,Monitor,Electronics,3,11303,33909,Kolkata,UPI
+484,2025-08-08,Printer,Office,3,31189,93567,Mumbai,UPI
+485,2025-02-09,Laptop,Electronics,2,62996,125992,Kolkata,Credit Card
+486,2025-01-05,Speaker,Accessories,4,1717,6868,Pune,UPI
+487,2025-02-06,Printer,Office,2,63113,126226,Chennai,Cash on Delivery
+488,2025-06-10,Mobile,Electronics,1,14026,14026,Pune,Debit Card
+489,2025-11-25,Headphones,Accessories,4,17951,71804,Kolkata,UPI
+490,2025-11-09,Speaker,Accessories,5,1610,8050,Kolkata,Cash on Delivery
+491,2025-07-30,Monitor,Electronics,2,20340,40680,Jaipur,Credit Card
+492,2025-03-05,Mobile,Electronics,1,18851,18851,Lucknow,Debit Card
+493,2025-05-07,Printer,Office,3,18827,56481,Hyderabad,UPI
+494,2025-12-20,Keyboard,Accessories,5,37845,189225,Delhi,Debit Card
+495,2025-04-07,Keyboard,Accessories,5,67284,336420,Lucknow,Debit Card
+496,2025-07-17,Laptop,Electronics,2,65365,130730,Mumbai,Credit Card
+497,2025-09-28,Tablet,Electronics,5,9807,49035,Delhi,Debit Card
+498,2025-10-19,Monitor,Electronics,2,51203,102406,Lucknow,Debit Card
+499,2025-02-07,Speaker,Accessories,2,62236,124472,Delhi,UPI
+500,2025-01-21,Laptop,Electronics,3,28777,86331,Delhi,Cash on Delivery
